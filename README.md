@@ -1,4 +1,5 @@
-# TraineeProgram2023
+#TRAINEE PROGRAM 2023
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -53,7 +54,7 @@
             box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
             backdrop-filter: blur(200px);
             width: 1000px;
-            height: 710px;
+            height: 750px;
             padding: 50px;
             border-radius: 50px;
             display: flex;
